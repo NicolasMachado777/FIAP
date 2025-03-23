@@ -1,4 +1,3 @@
-```markdown
 # Revisão Prova
 
 ### Linguagem de Alto Nível

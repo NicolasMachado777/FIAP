@@ -44,3 +44,15 @@ root_pwd -> senha
 Dps testa, vai dar certo e conclue
 
 ---------------------------------------------------
+
+Passos para começar o arquivo:
+
+![image](https://github.com/user-attachments/assets/cf8c49db-b8b3-44c5-88ff-27da4fb990be)
+
+
+Dependencias:
+Spring Web e Spring Boot dev tools
+
+
+
+
